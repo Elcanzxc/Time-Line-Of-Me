@@ -58,6 +58,10 @@
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
               "version": "[10.*-*, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [

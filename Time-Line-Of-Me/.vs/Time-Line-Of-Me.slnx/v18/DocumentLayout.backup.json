@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\time-line-of-me.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\time-line-of-me.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Program.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Program.cs",
+              "RelativeToolTip": "Time-Line-Of-Me.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T10:17:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "commands.txt",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\commands.txt",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\commands.txt",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\commands.txt",
+              "RelativeToolTip": "Time-Line-Of-Me.Server\\commands.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-02T10:16:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time-Line-Of-Me.Server",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "RelativeToolTip": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T10:16:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Time-Line-Of-Me.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T10:19:54.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,9 @@
+1)add package swagger ui
+
+
+2)Написать код в program cs для того чтобы включить swagger ui
+
+app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "api");
+    });
