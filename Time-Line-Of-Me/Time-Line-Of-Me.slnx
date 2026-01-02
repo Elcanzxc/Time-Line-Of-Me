@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="time-line-of-me.client/time-line-of-me.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Time-Line-Of-Me.Server/Time-Line-Of-Me.Server.csproj" />
+</Solution>

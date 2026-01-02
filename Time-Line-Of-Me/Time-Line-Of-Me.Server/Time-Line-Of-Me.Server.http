@@ -1,0 +1,6 @@
+@Time_Line_Of_Me.Server_HostAddress = http://localhost:5018
+
+GET {{Time_Line_Of_Me.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
