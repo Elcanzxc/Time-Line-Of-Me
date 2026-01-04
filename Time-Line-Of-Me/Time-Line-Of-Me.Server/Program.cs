@@ -25,16 +25,16 @@ builder.Services.AddDbContext<TimeLineOfMeDbContext>(
 builder.Services.AddScoped<IBookService, BookService>();
 builder.Services.AddScoped<IBooksRepository, BooksRepository>();
 
-
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", policy =>
     {
-        policy.WithOrigins("http://localhost:5174") // Адрес вашего фронтенда
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.AllowAnyOrigin()  
+              .AllowAnyHeader()  
+              .AllowAnyMethod();   
     });
 });
+
 builder.Services.AddControllers();
 
 var app = builder.Build();

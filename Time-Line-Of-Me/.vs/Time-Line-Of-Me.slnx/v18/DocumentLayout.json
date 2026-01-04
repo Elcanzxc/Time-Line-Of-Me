@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\time-line-of-me.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\time-line-of-me.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D118973-0587-0553-E716-FED2272372A3}|time-line-of-me.client\\time-line-of-me.client.esproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.client\\time-line-of-me.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D118973-0587-0553-E716-FED2272372A3}|time-line-of-me.client\\time-line-of-me.client.esproj|solutionrelative:time-line-of-me.client\\time-line-of-me.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.server\\time-line-of-me.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50E2D4B1-FBBA-60B1-25B5-2F821C108DB9}|Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj|solutionrelative:time-line-of-me.server\\time-line-of-me.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6CCEA11-BCD2-4643-B5FF-4E9CAA3299F7}|Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\time-line-of-me\\time-line-of-me\\time-line-of-me.dataaccess\\time-line-of-me.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -114,20 +118,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Time-Line-Of-Me.DataAccess.csproj",
-              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
-              "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
-              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
-              "RelativeToolTip": "Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-02T12:03:35.609Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -136,14 +128,14 @@
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Program.cs",
               "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Program.cs",
               "RelativeToolTip": "Time-Line-Of-Me.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T10:17:20.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20260104095700_init.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
@@ -155,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\appsettings.json",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\appsettings.json",
@@ -168,6 +160,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Time-Line-Of-Me.Server.csproj",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "RelativeToolTip": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T10:16:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "time-line-of-me.client.esproj",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\time-line-of-me.client\\time-line-of-me.client.esproj",
+              "RelativeDocumentMoniker": "time-line-of-me.client\\time-line-of-me.client.esproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\time-line-of-me.client\\time-line-of-me.client.esproj",
+              "RelativeToolTip": "time-line-of-me.client\\time-line-of-me.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-04T22:17:20.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Time-Line-Of-Me.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
+              "RelativeToolTip": "Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T12:03:35.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\appsettings.Development.json",
@@ -179,19 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Time-Line-Of-Me.Server.csproj",
-              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "RelativeToolTip": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-02T10:16:04.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Controllers\\BooksController.cs",
@@ -203,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20260104095700_init.Designer.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.Designer.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.Designer.cs",
@@ -215,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BooksRequest.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Contracts\\BooksRequest.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Contracts\\BooksRequest.cs",
@@ -227,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Core\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Core\\Models\\Book.cs",
@@ -239,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BooksRepository.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Repositories\\BooksRepository.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Repositories\\BooksRepository.cs",
@@ -251,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\WeatherForecast.cs",
@@ -263,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Controllers\\WeatherForecastController.cs",
@@ -275,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BooksResponse.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Contracts\\BooksResponse.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Contracts\\BooksResponse.cs",
@@ -287,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "BookEntity.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Entities\\BookEntity.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Entities\\BookEntity.cs",
@@ -299,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "TimeLineOfMeDbContext.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\TimeLineOfMeDbContext.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\TimeLineOfMeDbContext.cs",
@@ -311,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Application\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Application\\Services\\BookService.cs",
@@ -323,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Core\\Abstractions\\IBookService.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Core\\Abstractions\\IBookService.cs",
@@ -335,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IBooksRepository.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Core\\Abstractions\\IBooksRepository.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Core\\Abstractions\\IBooksRepository.cs",
@@ -347,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "BookConfiguration.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Configurations\\BookConfiguration.cs",
@@ -359,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Time-Line-Of-Me.Core.csproj",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Core\\Time-Line-Of-Me.Core.csproj",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Core\\Time-Line-Of-Me.Core.csproj",
@@ -371,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "TimeLineOfMeDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\TimeLineOfMeDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Migrations\\TimeLineOfMeDbContextModelSnapshot.cs",
@@ -383,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Time-Line-Of-Me.Application.csproj",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Application\\Time-Line-Of-Me.Application.csproj",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Application\\Time-Line-Of-Me.Application.csproj",
@@ -395,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "commands.txt",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\commands.txt",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\commands.txt",
@@ -407,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Properties\\launchSettings.json",
@@ -419,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "commands.txt",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\commands.txt",
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\commands.txt",
