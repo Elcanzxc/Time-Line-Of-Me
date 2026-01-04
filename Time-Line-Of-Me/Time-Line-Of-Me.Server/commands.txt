@@ -7,3 +7,6 @@ app.UseSwaggerUI(options =>
     {
         options.SwaggerEndpoint("/openapi/v1.json", "api");
     });
+
+
+3) install package EntityFrameworkCore Design

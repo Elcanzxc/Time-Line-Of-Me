@@ -3,5 +3,7 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="Time-Line-Of-Me.Core/Time-Line-Of-Me.Core.csproj" Id="7a9004fe-b16d-45f4-8d0b-2fae2210d36c" />
+  <Project Path="Time-Line-Of-Me.DataAccess/Time-Line-Of-Me.DataAccess.csproj" Id="c6ccea11-bcd2-4643-b5ff-4e9caa3299f7" />
   <Project Path="Time-Line-Of-Me.Server/Time-Line-Of-Me.Server.csproj" />
 </Solution>

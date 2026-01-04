@@ -6,6 +6,9 @@ namespace Time_Line_Of_Me.Core.Models
 {
     public class Book
     {
+
+        public const int MAX_TITLE_LENGTH = 200;
+
         public Guid Id { get; }
 
         public string Title { get; }
@@ -28,13 +31,13 @@ namespace Time_Line_Of_Me.Core.Models
         }
 
 
-        public static (Book book , string error) Create(Guid id ,string title, string description, string author, DateTime publishedDate)
+        public static (Book Book , string Error) Create(Guid id ,string title, string description, string author, DateTime publishedDate)
         {
             var error = string.Empty;
 
-            if (string.IsNullOrWhiteSpace(title))
+            if (string.IsNullOrWhiteSpace(title) || title.Length > MAX_TITLE_LENGTH)
             {
-                error = "Title cannot be empty.";
+                error = "Title cannot be empty or longer than 250 symbols.";
             }
             if (string.IsNullOrWhiteSpace(author))
             {
@@ -51,7 +54,7 @@ namespace Time_Line_Of_Me.Core.Models
             return (book, error);
 
 
-        }
+        }// Улучшить в дальнейшем валидацию и обработку ошибок
 
     }
 }

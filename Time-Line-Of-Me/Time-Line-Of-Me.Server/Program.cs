@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Time_Line_Of_Me.DataAccess;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -6,6 +9,16 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+
+
+builder.Services.AddDbContext<TimeLineOfMeDbContext>(
+    options =>
+    {
+        var connectionString = builder.Configuration.GetConnectionString("TimeLineOfMeDatabase");
+        options.UseSqlServer(connectionString);
+    });
+
 
 var app = builder.Build();
 
@@ -17,10 +30,10 @@ app.MapStaticAssets();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
-    //app.UseSwaggerUI(options =>
-    //{
-    //    options.SwaggerEndpoint("/openapi/v1.json", "api");
-    //});
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "api");
+    });
 }
 
 app.UseHttpsRedirection();
@@ -31,7 +44,7 @@ app.MapControllers();
 
 app.MapFallbackToFile("/index.html");
 
-
+/*
 app.Use(async (context, next) =>
 {
     // IP адрес клиента
@@ -60,13 +73,7 @@ app.Use(async (context, next) =>
 
     await next();
 });
+*/
 
 
-
-
-app.Run(async (context) =>
-{
-    await context.Response.WriteAsync("Hello from middleware!");
-});
-
-await app.RunAsync();
+app.Run();
