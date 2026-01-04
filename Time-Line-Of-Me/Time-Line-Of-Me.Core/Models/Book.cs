@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Time_Line_Of_Me.Core.Models
 {
@@ -33,7 +35,11 @@ namespace Time_Line_Of_Me.Core.Models
 
         public static (Book Book , string Error) Create(Guid id ,string title, string description, string author, DateTime publishedDate)
         {
+
+  
+
             var error = string.Empty;
+
 
             if (string.IsNullOrWhiteSpace(title) || title.Length > MAX_TITLE_LENGTH)
             {
@@ -43,15 +49,18 @@ namespace Time_Line_Of_Me.Core.Models
             {
                 error = "Author cannot be empty.";
             }
-            if (publishedDate > DateTime.Now)
-            {
-                error = "Published date cannot be in the future.";
-            }
 
 
-            var book = new Book(id, title, description?? string.Empty, author, publishedDate);
 
-            return (book, error);
+
+           
+             var book = new Book(id, title, description ?? string.Empty, author, publishedDate);
+            
+       
+             return (book, error);
+            
+
+            
 
 
         }// Улучшить в дальнейшем валидацию и обработку ошибок
