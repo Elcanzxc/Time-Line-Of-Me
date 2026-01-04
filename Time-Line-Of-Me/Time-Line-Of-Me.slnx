@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Time-Line-Of-Me.Application/Time-Line-Of-Me.Application.csproj" Id="7ab31260-6a7e-4c4c-a551-443218414628" />
   <Project Path="time-line-of-me.client/time-line-of-me.client.esproj">
     <Build />
     <Deploy />

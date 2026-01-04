@@ -6,13 +6,13 @@ using Time_Line_Of_Me.Core.Models;
 using Time_Line_Of_Me.DataAccess.Entities;
 namespace Time_Line_Of_Me.DataAccess.Repositories;
 
-public class BookRepository : IBooksRepository
+public class BooksRepository : IBooksRepository
 {
 
 
     private readonly TimeLineOfMeDbContext _context;
 
-    public BookRepository(TimeLineOfMeDbContext context)
+    public BooksRepository(TimeLineOfMeDbContext context)
     {
 
         _context = context;

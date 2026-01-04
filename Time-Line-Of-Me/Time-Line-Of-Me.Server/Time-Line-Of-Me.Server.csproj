@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Time-Line-Of-Me.Application\Time-Line-Of-Me.Application.csproj" />
     <ProjectReference Include="..\time-line-of-me.client\time-line-of-me.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
