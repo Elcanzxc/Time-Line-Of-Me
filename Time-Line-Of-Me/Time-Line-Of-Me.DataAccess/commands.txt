@@ -1,3 +1,5 @@
 1) install package EntityFrameworkCore
 2) install package EntityFrameworkCore Sql Server
 3)  EntityFramework Tools
+4) dotnet-ef migrations add init -s ".\Time-Line-Of-Me.Server\" -p ".\Time-Line-Of-Me.DataAccess\"
+5) dotnet-ef database update -s ".\Time-Line-Of-Me.Server\" -p ".\Time-Line-Of-Me.DataAccess\"
