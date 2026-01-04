@@ -7,6 +7,6 @@ namespace Time_Line_Of_Me.DataAccess.Repositories
         Task<Guid> Create(Book book);
         Task<Guid> Delete(Guid id);
         Task<List<Book>> Get();
-        Task<Guid> Update(Guid id, string title, string description, DateTime publishedDate);
+        Task<Guid> Update(Guid id, string title, string author, string description, DateTime publishedDate);
     }
 }

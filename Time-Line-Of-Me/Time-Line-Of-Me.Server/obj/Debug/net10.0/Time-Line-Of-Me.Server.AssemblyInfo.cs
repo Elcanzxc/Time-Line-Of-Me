@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Time-Line-Of-Me.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44aa7f5414afcb91c086eade661e627e2d8cfb62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0dff8127abdc01f6ac7a49b9b5563b6085c238c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Time-Line-Of-Me.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Time-Line-Of-Me.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

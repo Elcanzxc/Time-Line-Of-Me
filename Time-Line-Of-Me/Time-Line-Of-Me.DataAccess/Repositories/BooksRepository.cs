@@ -55,14 +55,16 @@ public class BookRepository : IBooksRepository
     }
 
 
-    public async Task<Guid> Update(Guid id, string title, string description, DateTime publishedDate)
+    public async Task<Guid> Update(Guid id, string title, string author,string description, DateTime publishedDate)
     {
         await _context.Books
             .Where(b => b.Id == id)
             .ExecuteUpdateAsync(b => b
                 .SetProperty(b => b.Title, title)
+                .SetProperty(b => b.Author, author)
                 .SetProperty(b => b.Description, description)
                 .SetProperty(b => b.PublishedDate, publishedDate)
+
             );
 
 

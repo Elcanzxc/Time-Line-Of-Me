@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using Time_Line_Of_Me.Application.Services;
 using Time_Line_Of_Me.DataAccess;
+using Time_Line_Of_Me.DataAccess.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +20,10 @@ builder.Services.AddDbContext<TimeLineOfMeDbContext>(
         var connectionString = builder.Configuration.GetConnectionString("TimeLineOfMeDatabase");
         options.UseSqlServer(connectionString);
     });
+
+
+builder.Services.AddScoped<IBookService, BookService>();
+builder.Services.AddScoped<IBooksRepository, BooksRepository>();
 
 
 var app = builder.Build();
