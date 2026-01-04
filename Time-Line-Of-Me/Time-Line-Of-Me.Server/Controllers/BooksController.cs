@@ -83,4 +83,47 @@ public class BooksController : ControllerBase
 
     }
 
+
+
+    [HttpPut("{id:guid}")]
+    public async Task<ActionResult<Guid>> UpdateBook(Guid id, [FromBody] BooksRequest request)
+    {
+        if (string.IsNullOrEmpty(request.PublishedDate))
+        {
+            return BadRequest("The date cannot be empty");
+        }
+
+
+        DateTime publishedDate;
+        bool isValidDate = DateTime.TryParse(request.PublishedDate, out publishedDate);
+        if (!isValidDate)
+        {
+            isValidDate = DateTime.TryParseExact(request.PublishedDate, "yyyy-MM-dd",
+                                                  CultureInfo.InvariantCulture,
+                                                  DateTimeStyles.None, out publishedDate);
+            if (!isValidDate)
+            {
+                return BadRequest("Incorrect date format");
+            }
+        }
+        if (publishedDate > DateTime.Now)
+        {
+            return BadRequest("The date cannot be in the future");
+        }
+
+
+
+
+
+        var bookId = await _bookService.UpdateBook(id, request.Title, request.Author, request.Description, publishedDate);
+        return Ok(bookId);
+    }
+
+
+    [HttpDelete("{id:guid}")]
+    public async Task<ActionResult<Guid>> DeleteBook(Guid id)
+    {
+        return Ok(await _bookService.DeleteBook(id));
+    }
+
 }
