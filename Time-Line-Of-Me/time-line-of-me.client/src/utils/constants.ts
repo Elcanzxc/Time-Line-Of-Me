@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'https://mr642s4n-7036.euw.devtunnels.ms';
+export const API_BASE_URL = 'https://05856xlk-7036.euw.devtunnels.ms';
 
 
 export const QUOTES = [

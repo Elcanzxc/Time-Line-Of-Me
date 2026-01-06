@@ -13,7 +13,7 @@ interface BookFormProps {
 }
 
 export const BookForm: React.FC<BookFormProps> = ({ book, onClose, mode = 'add' }) => {
-  const { addBook, updateBook } = useLibrary();
+ const { addBook, updateBook, seedBooks, loading: isLibraryLoading } = useLibrary();
   const navigate = useNavigate();
   const [isSubmitting, setIsSubmitting] = useState(false);
   
@@ -58,17 +58,36 @@ export const BookForm: React.FC<BookFormProps> = ({ book, onClose, mode = 'add' 
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm">
       <div className="relative bg-charcoal rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto border border-gray-800 shadow-2xl">
         <div className="sticky top-0 bg-charcoal border-b border-gray-800 p-6 z-10">
-          <div className="flex items-center justify-between">
-            <h2 className="font-serif text-3xl text-ivory">
-              {mode === 'edit' ? 'Edit Book' : 'Add New Book'}
-            </h2>
-            <button
-              onClick={onClose}
-              className="p-2 rounded-full hover:bg-gray-800 text-gray-400 hover:text-white transition-all"
-            >
-              <X size={24} />
-            </button>
-          </div>
+         
+         
+<div className="flex items-center justify-between">
+  <div>
+    <h2 className="font-serif text-3xl text-ivory">
+      {mode === 'edit' ? 'Edit Book' : 'Add New Book'}
+    </h2>
+    {/* ДОБАВЛЯЕМ ЭТУ КНОПКУ ТОЛЬКО ДЛЯ РЕЖИМА "ADD" */}
+    {mode === 'add' && (
+      <button
+        onClick={(e) => {
+          e.preventDefault();
+          seedBooks();
+        }}
+        disabled={isLibraryLoading}
+        className="mt-2 text-xs bg-amber-600/20 hover:bg-amber-600/40 text-amber-400 border border-amber-600/50 px-3 py-1 rounded-full transition-all"
+      >
+        {isLibraryLoading ? '🪄 Magic in progress...' : '✨ Auto-fill 5 books via API'}
+      </button>
+    )}
+  </div>
+  <button
+    onClick={onClose}
+    className="p-2 rounded-full hover:bg-gray-800 text-gray-400 hover:text-white transition-all"
+  >
+    <X size={24} />
+  </button>
+</div>
+
+
         </div>
 
         <div className="p-6 space-y-6">

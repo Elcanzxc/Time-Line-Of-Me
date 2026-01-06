@@ -118,8 +118,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time-Line-Of-Me.Server.csproj",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "RelativeToolTip": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T10:16:04.428Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -128,22 +141,10 @@
               "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Program.cs",
               "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Program.cs",
               "RelativeToolTip": "Time-Line-Of-Me.Server\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T10:17:20.611Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20260104095700_init.cs",
-              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
-              "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
-              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
-              "RelativeToolTip": "Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T11:59:15.982Z"
             },
             {
               "$type": "Document",
@@ -159,15 +160,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Time-Line-Of-Me.Server.csproj",
-              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "RelativeDocumentMoniker": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "RelativeToolTip": "Time-Line-Of-Me.Server\\Time-Line-Of-Me.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-02T10:16:04.428Z"
+              "DocumentIndex": 7,
+              "Title": "20260104095700_init.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
+              "RelativeDocumentMoniker": "Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\Time-Line-Of-Me\\Time-Line-Of-Me\\Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
+              "RelativeToolTip": "Time-Line-Of-Me.DataAccess\\Migrations\\20260104095700_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:59:15.982Z"
             },
             {
               "$type": "Document",
@@ -179,7 +180,8 @@
               "RelativeToolTip": "time-line-of-me.client\\time-line-of-me.client.esproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-04T22:17:20.903Z"
+              "WhenOpened": "2026-01-04T22:17:20.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +193,8 @@
               "RelativeToolTip": "Time-Line-Of-Me.DataAccess\\Time-Line-Of-Me.DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-02T12:03:35.609Z"
+              "WhenOpened": "2026-01-02T12:03:35.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -383,7 +386,8 @@
               "RelativeToolTip": "Time-Line-Of-Me.Core\\Time-Line-Of-Me.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-02T11:47:40.52Z"
+              "WhenOpened": "2026-01-02T11:47:40.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -407,7 +411,8 @@
               "RelativeToolTip": "Time-Line-Of-Me.Application\\Time-Line-Of-Me.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-04T12:01:38.358Z"
+              "WhenOpened": "2026-01-04T12:01:38.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
